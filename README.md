@@ -1,2 +1,2 @@
 # ijkplayerDemo
-the demo for <a herf="https://github.com/Bilibili/ijkplayer">ijkplayer</a> 
+Bilibili的ijkplayer编译好后的项目
